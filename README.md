@@ -29,7 +29,7 @@ It provides a command-line interface where users interact with AI, which can pos
 
 ```bash
 git clone https://github.com/kumarprakhar14/MCP-AI-Agent.git
-cd x-ai-agent
+cd MCP-AI-Agent
 ```
 
 ---
