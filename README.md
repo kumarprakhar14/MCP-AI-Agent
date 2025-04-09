@@ -28,7 +28,7 @@ It provides a command-line interface where users interact with AI, which can pos
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/x-ai-agent.git
+git clone https://github.com/kumarprakhar14/MCP-AI-Agent.git
 cd x-ai-agent
 ```
 
