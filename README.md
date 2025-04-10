@@ -91,10 +91,10 @@ GEMINI_API_KEY=your_gemini_api_key
 4. Generate the following and add them to your `.env` file:
 
 ```env
-TWITTER_API_KEY=your_twitter_api_key
-TWITTER_API_SECRET=your_twitter_api_secret
-TWITTER_ACCESS_TOKEN=your_twitter_access_token
-TWITTER_ACCESS_TOKEN_SECRET=your_twitter_access_token_secret
+TWITTER_API_KEY
+TWITTER_API_SECRET
+TWITTER_ACCESS_TOKEN
+TWITTER_ACCESS_TOKEN_SECRET
 ```
 
 ---
