@@ -20,6 +20,7 @@ const chatHistory = [];
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
+    terminal: false
 });
 
 mcpClient.connect(new SSEClientTransport(new URL('http://localhost:3001/sse')))
