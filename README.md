@@ -121,5 +121,3 @@ TWITTER_ACCESS_TOKEN_SECRET=your_twitter_access_token_secret
 > Always comply with Twitter’s automation rules and best practices.
 
 --- 
-
-Let me know if you'd like to generate a logo or add badges for GitHub stats, build status, or license!
